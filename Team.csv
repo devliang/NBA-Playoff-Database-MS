@@ -1,0 +1,31 @@
+TEAMCITY,TEAMNAME,INITIALS,CONFERENCE,DIVISION,Champion,TotalSalary,ManagerID,CoachID
+Atlanta,Hawks,Atl,East,Southeast,1,80.5,1,1
+Boston,Celtics,Bos,East,Atlantic,17,127.5,2,2
+Brooklyn,Nets,Bro,East,Atlantic,0,120.8,3,3
+Charlotte,Hornets,Cha,East,Southeast,0,123.4,4,4
+Chicago,Bulls,Chi,East,Central,6,114.5,5,5
+Cleveland,Cavaliers,Cle,East,Central,1,125.3,6,6
+Dallas,Mavericks,Dal,West,Southwest,1,88.4,7,7
+Denver,Nuggets,Den,West,Northwest,0,120.3,8,8
+Detroit,Pistons,Det,East,Central,3,128.6,9,9
+Golden State,Warriors,Gol,West,Pacific,6,148.7,10,10
+Houston,Rockets,Hou,West,Southwest,2,128.6,11,11
+Indiana,Pacers,Ind,East,Central,0,112.6,12,12
+Los Angeles,Clippers,Lac,West,Pacific,0,120,13,13
+Los Angeles,Lakers,Lal,West,Pacific,16,109,14,14
+Memphis,Grizzlies,Mem,West,Southwest,0,128.2,15,15
+Miami,Heat,Mia,East,Southeast,3,155.7,16,16
+Milwaukee,Bucks,Mil,East,Central,1,133.1,17,17
+Minnesota,Timberwolves,Min,West,Northwest,0,124,18,18
+New Orleans,Pelicans,Nor,West,Southwest,0,118,19,19
+New York,Knicks,Nyk,East,Atlantic,2,125.4,20,20
+Oklahoma City,Thunder,Okc,West,Northwest,1,147.3,21,21
+Orlando,Magic,Orl,East,Southeast,0,118,22,22
+Philadelphia,76ers,Phi,East,Atlantic,3,117,23,23
+Phoenix,Suns,Pho,West,Pacific,0,110.5,24,24
+Portland,Trail blazers,Por,West,Northwest,0,132.4,25,25
+Sacramento,Kings,Sac,West,Pacific,1,103.1,26,26
+San Antonio,Spurs,San,West,Southwest,5,123.6,27,27
+Toronto,Raptors,Tor,East,Atlantic,1,140.1,28,28
+Utah,Jazz,Uta,West,Northwest,0,115.7,29,29
+Washington,Wizards,Was,East,Southeast,1,125.8,30,30

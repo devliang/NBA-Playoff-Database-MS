@@ -1,0 +1,47 @@
+<form method="POST" action="">
+			{{ form.hidden_tag()}}
+			<fieldset class="form-group">
+				<legend class="border-bottom mb-4">Search Table </legend>
+				<div class="form-group">
+					{{ form.teamName.label(class="form-control-label")}}
+					{{ form.teamName(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.teamCity.label(class="form-control-label")}}
+					{{ form.teamCity(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.initial.label(class="form-control-label")}}
+					{{ form.initial(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.conference.label(class="form-control-label")}}
+					{{ form.conference(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.division.label(class="form-control-label")}}
+					{{ form.division(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.champion.label(class="form-control-label")}}
+					{{ form.champion(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.totallySalary.label(class="form-control-label")}}
+					{{ form.totallySalary(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.managerID.label(class="form-control-label")}}
+					{{ form.managerID(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.coachID.label(class="form-control-label")}}
+					{{ form.coachID(class="form-control form-control-lg")}}
+				</div>
+				<div class="form-group">
+					{{ form.search(class="btn btn-outline-info") }}
+				</div>
+				
+
+			</fieldset>
+		</form>

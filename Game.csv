@@ -1,0 +1,165 @@
+GameID,DATE,TEAMCITY,TEAMNAME,VENUE,WINorLOSE,FinalScore,RefID
+218001,4/13/2019,Orlando,Magic,R,W,104,3
+218002,4/13/2019,Toronto,Raptors,H,L,101,3
+218003,4/13/2019,Brooklyn,Nets,R,W,111,5
+218004,4/13/2019,Philadelphia,76ers,H,L,102,5
+218005,4/13/2019,Los Angeles,Clippers,R,L,104,9
+218006,4/13/2019,Golden State,Warriors,H,W,121,9
+218007,4/13/2019,San Antonio,Spurs,R,W,101,11
+218008,4/13/2019,Denver,Nuggets,H,L,96,11
+218009,4/14/2019,Detroit,Pistons,R,L,86,1
+218010,4/14/2019,Milwaukee,Bucks,H,W,121,1
+218011,4/14/2019,Indiana,Pacers,R,L,74,7
+218012,4/14/2019,Boston,Celtics,H,W,84,7
+218013,4/14/2019,Oklahoma City,Thunder,R,L,99,13
+218014,4/14/2019,Portland,Trail Blazers,H,W,104,13
+218015,4/14/2019,Utah,Jazz,R,L,90,15
+218016,4/14/2019,Houston,Rockets,H,W,122,15
+218017,4/15/2019,Brooklyn,Nets,R,L,123,5
+218018,4/15/2019,Philadelphia,76ers,H,W,145,5
+218019,4/15/2019,Los Angeles,Clippers,R,W,135,9
+218020,4/15/2019,Golden State,Warriors,H,L,131,9
+218021,4/16/2019,Orlando,Magic,R,L,82,3
+218022,4/16/2019,Toronto,Raptors,H,W,111,3
+218023,4/16/2019,San Antonio,Spurs,R,L,105,11
+218024,4/16/2019,Denver,Nuggets,H,W,114,11
+218025,4/16/2019,Oklahoma City,Thunder,R,L,94,13
+218026,4/16/2019,Portland,Trail Blazers,H,W,114,13
+218027,4/17/2019,Detroit,Pistons,R,L,99,1
+218028,4/17/2019,Milwaukee,Bucks,H,W,120,1
+218029,4/17/2019,Indiana,Pacers,R,L,91,7
+218030,4/17/2019,Boston,Celtics,H,W,99,7
+218031,4/17/2019,Utah,Jazz,R,L,98,15
+218032,4/17/2019,Houston,Rockets,H,W,118,15
+218033,4/18/2019,Brooklyn,Nets,H,L,115,6
+218034,4/18/2019,Philadelphia,76ers,R,W,131,6
+218035,4/18/2019,Los Angeles,Clippers,H,L,105,10
+218036,4/18/2019,Golden State,Warriors,R,W,132,10
+218037,4/18/2019,San Antonio,Spurs,H,W,118,12
+218038,4/18/2019,Denver,Nuggets,R,L,108,12
+218039,4/19/2019,Orlando,Magic,H,L,93,4
+218040,4/19/2019,Toronto,Raptors,R,W,98,4
+218041,4/19/2019,Indiana,Pacers,H,L,96,8
+218042,4/19/2019,Boston,Celtics,R,W,104,8
+218043,4/19/2019,Oklahoma City,Thunder,H,W,120,14
+218044,4/19/2019,Portland,Trail Blazers,R,L,108,14
+218045,4/20/2019,Detroit,Pistons,H,L,103,2
+218046,4/20/2019,Milwaukee,Bucks,R,W,119,2
+218047,4/20/2019,Brooklyn,Nets,H,L,108,6
+218048,4/20/2019,Philadelphia,76ers,R,W,112,6
+218049,4/20/2019,San Antonio,Spurs,H,L,103,12
+218050,4/20/2019,Denver,Nuggets,R,W,117,12
+218051,4/20/2019,Utah,Jazz,H,L,101,16
+218052,4/20/2019,Houston,Rockets,R,W,104,16
+218053,4/21/2019,Orlando,Magic,H,L,85,4
+218054,4/21/2019,Toronto,Raptors,R,W,107,4
+218055,4/21/2019,Indiana,Pacers,H,L,106,8
+218056,4/21/2019,Boston,Celtics,R,W,110,8
+218057,4/21/2019,Los Angeles,Clippers,H,L,105,10
+218058,4/21/2019,Golden State,Warriors,R,W,113,10
+218059,4/21/2019,Oklahoma City,Thunder,H,L,98,14
+218060,4/21/2019,Portland,Trail Blazers,R,W,111,14
+218061,4/22/2019,Detroit,Pistons,H,L,104,2
+218062,4/22/2019,Milwaukee,Bucks,R,W,127,2
+218063,4/22/2019,Utah,Jazz,H,W,107,16
+218064,4/22/2019,Houston,Rockets,R,L,91,16
+218065,4/23/2019,Orlando,Magic,R,L,96,3
+218066,4/23/2019,Toronto,Raptors,H,W,115,3
+218067,4/23/2019,Brooklyn,Nets,R,L,100,5
+218068,4/23/2019,Philadelphia,76ers,H,W,122,5
+218069,4/23/2019,San Antonio,Spurs,R,L,90,11
+218070,4/23/2019,Denver,Nuggets,H,W,108,11
+218071,4/23/2019,Oklahoma City,Thunder,R,L,115,13
+218072,4/23/2019,Portland,Trail Blazers,H,W,118,13
+218073,4/24/2019,Los Angeles,Clippers,R,W,129,9
+218074,4/24/2019,Golden State,Warriors,H,L,121,9
+218075,4/24/2019,Utah,Jazz,R,L,93,15
+218076,4/24/2019,Houston,Rockets,H,W,100,15
+218077,4/25/2019,San Antonio,Spurs,H,W,120,12
+218078,4/25/2019,Denver,Nuggets,R,L,103,12
+218079,4/26/2019,Los Angeles,Clippers,H,L,110,10
+218080,4/26/2019,Golden State,Warriors,R,W,129,10
+218081,4/27/2019,Philadelphia,76ers,R,L,95,3
+218082,4/27/2019,Toronto,Raptors,H,W,108,3
+218083,4/27/2019,San Antonio,Spurs,R,L,86,11
+218084,4/27/2019,Denver,Nuggets,H,W,90,11
+218085,4/28/2019,Boston,Celtics,R,W,112,1
+218086,4/28/2019,Milwaukee,Bucks,H,L,90,1
+218087,4/28/2019,Houston,Rockets,R,L,100,9
+218088,4/28/2019,Golden State,Warriors,H,W,104,9
+218089,4/29/2019,Philadelphia,76ers,R,W,94,3
+218090,4/29/2019,Toronto,Raptors,H,L,89,3
+218091,4/29/2019,Portland,Trail Blazers,R,L,113,11
+218092,4/29/2019,Denver,Nuggets,H,W,121,11
+218093,4/30/2019,Boston,Celtics,R,L,102,1
+218094,4/30/2019,Milwaukee,Bucks,H,W,123,1
+218095,4/30/2019,Houston,Rockets,R,L,109,9
+218096,4/30/2019,Golden State,Warriors,H,W,115,9
+218097,5/1/2019,Portland,Trail Blazers,R,W,97,11
+218098,5/1/2019,Denver,Nuggets,H,L,90,11
+218099,5/2/2019,Philadelphia,76ers,H,W,116,5
+218100,5/2/2019,Toronto,Raptors,R,L,95,5
+218101,5/3/2019,Boston,Celtics,H,L,116,7
+218102,5/3/2019,Milwaukee,Bucks,R,W,123,7
+218103,5/3/2019,Portland,Trail Blazers,H,W,140,13
+218104,5/3/2019,Denver,Nuggets,R,L,137,13
+218105,5/4/2019,Houston,Rockets,H,W,126,15
+218106,5/4/2019,Golden State,Warriors,R,L,121,15
+218107,5/5/2019,Philadelphia,76ers,H,L,96,5
+218108,5/5/2019,Toronto,Raptors,R,W,101,5
+218109,5/5/2019,Portland,Trail Blazers,H,L,112,13
+218110,5/5/2019,Denver,Nuggets,R,W,116,13
+218111,5/6/2019,Boston,Celtics,H,L,101,7
+218112,5/6/2019,Milwaukee,Bucks,R,W,113,7
+218113,5/6/2019,Houston,Rockets,H,W,112,15
+218114,5/6/2019,Golden State,Warriors,R,L,108,15
+218115,5/7/2019,Philadelphia,76ers,R,L,89,3
+218116,5/7/2019,Toronto,Raptors,H,W,125,3
+218117,5/7/2019,Portland,Trail Blazers,R,L,98,11
+218118,5/7/2019,Denver,Nuggets,H,W,124,11
+218119,5/8/2019,Boston,Celtics,R,L,91,1
+218120,5/8/2019,Milwaukee,Bucks,H,W,116,1
+218121,5/8/2019,Houston,Rockets,R,L,99,9
+218122,5/8/2019,Golden State,Warriors,H,W,104,9
+218123,5/9/2019,Philadelphia,76ers,H,W,112,5
+218124,5/9/2019,Toronto,Raptors,R,L,101,5
+218125,5/9/2019,Portland,Trail Blazers,H,W,119,13
+218126,5/9/2019,Denver,Nuggets,R,L,108,13
+218127,5/10/2019,Houston,Rockets,H,L,113,15
+218128,5/10/2019,Golden State,Warriors,R,W,118,15
+218129,5/12/2019,Philadelphia,76ers,R,L,90,3
+218130,5/12/2019,Toronto,Raptors,H,W,92,3
+218131,5/12/2019,Portland,Trail Blazers,R,W,100,11
+218132,5/12/2019,Denver,Nuggets,H,L,96,11
+218133,5/14/2019,Portland,Trail Blazers,R,L,94,9
+218134,5/14/2019,Golden State,Warriors,H,W,116,9
+218135,5/15/2019,Toronto,Raptors,R,L,100,1
+218136,5/15/2019,Milwaukee,Bucks,H,W,108,1
+218137,5/16/2019,Portland,Trail Blazers,R,L,111,9
+218138,5/16/2019,Golden State,Warriors,H,W,114,9
+218139,5/17/2019,Toronto,Raptors,R,L,103,1
+218140,5/17/2019,Milwaukee,Bucks,H,W,125,1
+218141,5/18/2019,Portland,Trail Blazers,H,L,99,13
+218142,5/18/2019,Golden State,Warriors,R,W,110,13
+218143,5/19/2019,Toronto,Raptors,H,W,118,3
+218144,5/19/2019,Milwaukee,Bucks,R,L,112,3
+218145,5/20/2019,Portland,Trail Blazers,H,L,117,13
+218146,5/20/2019,Golden State,Warriors,R,W,119,13
+218147,5/21/2019,Toronto,Raptors,H,W,120,3
+218148,5/21/2019,Milwaukee,Bucks,R,L,102,3
+218149,5/23/2019,Toronto,Raptors,R,W,105,1
+218150,5/23/2019,Milwaukee,Bucks,H,L,99,1
+218151,5/25/2019,Toronto,Raptors,H,W,100,3
+218152,5/25/2019,Milwaukee,Bucks,R,L,94,3
+218153,5/30/2019,Golden State,Warriors,R,L,109,3
+218154,5/30/2019,Toronto,Raptors,H,W,118,3
+218155,6/2/2019,Golden State,Warriors,R,W,109,3
+218156,6/2/2019,Toronto,Raptors,H,L,104,3
+218157,6/5/2019,Golden State,Warriors,H,L,109,9
+218158,6/5/2019,Toronto,Raptors,R,W,123,9
+218159,6/7/2019,Golden State,Warriors,H,L,92,9
+218160,6/7/2019,Toronto,Raptors,R,W,105,9
+218161,6/10/2019,Golden State,Warriors,R,W,106,3
+218162,6/10/2019,Toronto,Raptors,H,L,105,3
+218163,6/13/2019,Golden State,Warriors,H,L,110,9
+218164,6/13/2019,Toronto,Raptors,R,W,114,9

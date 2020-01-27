@@ -1,0 +1,152 @@
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href='/static/style.css' />
+</head>
+<body> -->
+<!-- 	<div class="content-section">
+		<div>Select one of the tables that you want to modify:</div>
+
+		<a href="/searchGame">Game</a>
+		<a href="/searchPlayer">Player</a>
+		<a href="/searchTeam">Team</a>
+		<a href="/searchReferee">Referee</a>
+		<a href="/searchManager">Manager</a>
+		<a href="/searchCoach">Coach</a>
+		
+	</div>
+
+
+
+	-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+  </style>
+</head>
+<body>
+
+{% if not myresult %}
+
+<div class="jumbotron">
+  <div class="container text-center">
+    <h2>Thanks for using our NBA Database Management System</h2>      
+    <img src="https://miro.medium.com/max/3624/1*C02wNydKS3IFId-orsyN3A.jpeg" class="img-responsive" style="width:100%" alt="Image">
+
+  </div>
+</div>
+
+  
+<div class="container-fluid bg-3 text-center">    
+  <h3>Select One of the Tables That You Want to Access:</h3><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <a href="/searchGame">Game</a>
+    </div>
+    <div class="col-sm-3"> 
+	  <a href="/searchPlayer">Player</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchTeam">Team</a>
+    </div>
+    <div class="col-sm-3">
+      <a href="/searchReferee">Referee</a>
+    </div>
+
+  </div>
+</div><br>
+
+<div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-3">
+      <a href="/searchManager">Manager</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchCoach">Coach</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchQuery1">Top/Bottom Players</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchQuery2">Highest/Lowest GameScore</a>
+    </div>
+
+     </div><br>
+
+    <div class="col-sm-3"> 
+      <a href="/searchQuery3">Best Manager</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchQuery4">Luckiest Ref to A Team</a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="/searchQuery5">MVP Potentials</a>
+    </div>
+    <div class="col-sm-3">
+      <p>Coming soon..</p>
+    </div>
+  </div>
+</div><br><br>
+
+{% endif %}
+
+{% if myresult %}
+
+<div class="container" style="padding-top: 10%; padding-bottom: 10%">
+	<h1>Results: </h1>
+	{% for row in myresult %}
+		{% for i in range(row|length) %}
+		<div class="row">
+			<div class="col-sm-3">
+				
+			</div>
+			<div class="col-sm-3" style="border: black solid 1px">
+				{{ titles[i] }}
+			</div>
+			<div class="col-sm-3" style="border: black solid 1px">
+				{{ row[i] }}
+			</div>
+			<div class="col-sm-3">
+				
+			</div>
+		</div>
+		
+		{% endfor %}
+		<hr>
+
+	{% endfor %}
+	
+	{% endif %}
+</div>
+
+<footer class="container-fluid text-center">
+  <p>Database Design and Practice Project</p>
+</footer>
+
+
+</body>
+</html>
+
+</body>
+</html>
